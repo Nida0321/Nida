@@ -1,0 +1,2 @@
+# Nida
+Python and Django
